@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ghazialig, a native of aligarh, UP, India and currently study in Hyderabad, Telangana, India.
+- 👋 Hi, I’m @ghazialig, a native of Aligarh, UP, India and I currently study in MANUU, a central government university in Hyderabad, Telangana, India.
 - 👀 I’m interested in working on open source projects which might benefit the humanity as a whole.
 - 🌱 I’m currently learning software development. I can work on Android, Java, Python etc. and have a fair hand in web development too.
 - 💞️ I’m looking to collaborate on open source projects related to machine learning, and Android.
